@@ -1,0 +1,12 @@
+.DS_Store
+.env
+courseware/.env
+.claude/
+assessment/
+reference/
+course_application/
+qa/
+courseware/build/
+courseware/archive/
+*.tmp
+~$*
