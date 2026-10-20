@@ -72,7 +72,9 @@ Assessment papers and answer keys are confidential trainer materials and are int
 | Item | Details |
 |---|---|
 | Course code | TGS-2023037829 |
+| Programme | WSQ |
 | Duration | 3 days / 24 hours |
+| Funding | Up to 70% course-fee funding for eligible learners or employers. Eligibility and terms apply; funding is currently listed as valid through 12 September 2027. |
 | Platforms | Procreate and Sketchbook Studio |
 | Level | Beginner |
 | Training provider | Tertiary Infotech Academy Pte Ltd |
